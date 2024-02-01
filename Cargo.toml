@@ -1,0 +1,14 @@
+[package]
+name = "mnist"
+version = "0.1.0"
+edition = "2021"
+authors = ["Digitake <digitake@gmail.com>"]
+description = "A simple MNIST parser/loader written in rust."
+repository = "https://github.com/digitake/rust-mnist"
+keywords = ["MNIST"]
+license = "MIT"
+
+
+[dependencies]
+rust-mnist = "0.2.0"
+rand = "0.8"
