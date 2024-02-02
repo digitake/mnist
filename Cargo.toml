@@ -3,8 +3,8 @@ name = "mnist"
 version = "0.1.0"
 edition = "2021"
 authors = ["Digitake <digitake@gmail.com>"]
-description = "A simple MNIST parser/loader written in rust."
-repository = "https://github.com/digitake/rust-mnist"
+description = "A simple MNIST demo with pretrained weight written in rust."
+repository = "https://github.com/digitake/mnist"
 keywords = ["MNIST"]
 license = "MIT"
 
